@@ -11,7 +11,7 @@
 - Gestão de Matriculas
 + E muito mais...
 
-## # SIGES
+## # SIGES (FREINET)
 # Sistema de Gestão Acadêmica em Laravel
 
 ### Capturas de Tela
